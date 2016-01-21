@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_no_map_image.png",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_no_map_image.png"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_balloon_text_color.xml",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_balloon_text_color.xml"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_ya_logo.png",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_ya_logo.png"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_zoom_minus_drawable.xml",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_zoom_minus_drawable.xml"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_find_me_drawable.xml",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_find_me_drawable.xml"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_tlight_loading.xml",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_tlight_loading.xml"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_scale.png",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_scale.png"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_zoom_plus_drawable.xml",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_zoom_plus_drawable.xml"
+    },
+    {
+        "merged": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ymk_empty_image.png",
+        "source": "/home/petronic/git/CityDemo/yandexmapkitlibrary/build/intermediates/bundles/debug/res/drawable/ymk_empty_image.png"
+    }
+]
