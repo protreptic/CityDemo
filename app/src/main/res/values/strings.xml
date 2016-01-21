@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CityDemo</string>
+    <string name="contentDescription">Content description</string>
+    <string name="city_name">[city_name]</string>
+    <string name="search">Найти город</string>
+    <string name="update_failture">Не удалось обновить список городов</string>
+    <string name="updat_success">Список городов успешно обновлен</string>
+</resources>

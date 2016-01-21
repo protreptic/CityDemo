@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/petronic/git/CityDemo/yandexmapkitlibrary/src/main/jniLibs"><file name="armeabi/libcache_local.so" path="/home/petronic/git/CityDemo/yandexmapkitlibrary/src/main/jniLibs/armeabi/libcache_local.so"/></source></dataSet><dataSet config="release"><source path="/home/petronic/git/CityDemo/yandexmapkitlibrary/src/release/jniLibs"/></dataSet></merger>
